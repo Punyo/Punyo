@@ -7,6 +7,8 @@
 
 Unity製ゲームである[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingも行っています。
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
+
 ## 技術スタック
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja)
