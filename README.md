@@ -1,9 +1,15 @@
 ## Hi there 👋
+名古屋の情報系専攻の学生です。
 
+主にAndroidアプリの開発をしています。
+
+モバイル開発以外にもWPFやWindows FormsでWindowsアプリケーションの開発をしたり、
+
+Unity製ゲームである[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingも行っています。
 
 ## 技術スタック
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja)
 
 | 言語/フレームワーク/プラットフォーム | ツール |
 | ------------- | ------------- |
