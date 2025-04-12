@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Punyo/Punyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 技術スタック
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark)
+
+| 言語/フレームワーク/プラットフォーム | ツール |
+| ------------- | ------------- |
+| ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cs,dotnet,java,jetpackcompose,kotlin,ktor,processing&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,gcp,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
+
+## これまでの成果物
+
+詳しくは[こちら](https://punyo.github.io/works)
+
+## 保有資格
+
+| 資格名 | 取得時期 |
+| ------------- | ------------- |
+| TOEIC Listening & Reading Test (Score:945) | 2024/04 |
+| 実用英語技能検定 準1級 | 2022/03 |
