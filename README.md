@@ -10,6 +10,11 @@
 Unity製ゲームである[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingも行っています。
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
+<details>
+  <summary>WakaTime Stats(2025/04/13~)</summary>
+  
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Punyo&theme=dark&locale=ja)
+</details>
 
 ## 技術スタック
 
