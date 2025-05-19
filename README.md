@@ -13,7 +13,7 @@ Unity製ゲームである[From The Depths](https://store.steampowered.com/app/2
 <details>
   <summary>WakaTime Stats(2025/04/13~)</summary>
   
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Punyo&theme=dark&locale=ja)
+  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Punyo&layout=compact&theme=dark&locale=ja)
 </details>
 
 ## 技術スタック
