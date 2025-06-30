@@ -5,7 +5,7 @@
 
 主にAndroidアプリの開発をしています。
 
-モバイル開発以外ではC#をこねこねして[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingとか色々しています。
+モバイル開発以外ではC#をこねこねして[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingなど色々しています。
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
 <details>
