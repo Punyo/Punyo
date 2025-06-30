@@ -5,9 +5,7 @@
 
 主にAndroidアプリの開発をしています。
 
-モバイル開発以外にもWPFやWindows FormsでWindowsアプリケーションの開発をしたり、
-
-Unity製ゲームである[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingも行っています。
+モバイル開発以外ではC#をこねこねして[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingとか色々しています。
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
 <details>
