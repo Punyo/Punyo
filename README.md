@@ -20,7 +20,7 @@
 
 | 言語/フレームワーク/プラットフォーム | ツール |
 | ------------- | ------------- |
-| ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cs,dotnet,java,jetpackcompose,kotlin,ktor,processing&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,gcp,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
+| ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cs,dotnet,java,jetpackcompose,kotlin,ktor,processing&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,azure,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
 
 ## これまでの成果物
 
