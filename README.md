@@ -16,7 +16,7 @@
 
 ## 技術スタック（private repo含む）
 
-![Top Langs](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja&langs_count=10&exclude_repo=patched_pyrroline,Jikanwari)
+![Top Langs](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja&langs_count=10&exclude_repo=patched_pyrroline)
 
 | 言語/フレームワーク/プラットフォーム | ツール |
 | ------------- | ------------- |
