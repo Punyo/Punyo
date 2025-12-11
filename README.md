@@ -14,7 +14,7 @@
   ![Wakatime Stats](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/wakatime?username=Punyo&layout=compact&theme=dark&locale=ja)
 </details>
 
-## 技術スタック
+## 技術スタック（private repo含む）
 
 ![Top Langs](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja&exclude_repo=patched_pyrroline)
 
