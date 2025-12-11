@@ -11,12 +11,12 @@
 <details>
   <summary>WakaTime Stats(2025/04/13~)</summary>
   
-  ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Punyo&layout=compact&theme=dark&locale=ja)
+  ![Wakatime Stats](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/wakatime?username=Punyo&layout=compact&theme=dark&locale=ja)
 </details>
 
 ## 技術スタック
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja)
+![Top Langs](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja)
 
 | 言語/フレームワーク/プラットフォーム | ツール |
 | ------------- | ------------- |
