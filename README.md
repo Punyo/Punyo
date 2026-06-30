@@ -22,14 +22,6 @@
 | ------------- | ------------- |
 | ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,java,jetpackcompose,kotlin,ktor&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,azure,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
 
-## これまでの成果物
+## 個人サイト
 
-詳しくは[こちら](https://punyo.github.io/works)
-
-## 保有資格
-
-| 資格名 | 取得時期 |
-| ------------- | ------------- |
-| 応用情報技術者試験 | 2025/12 |
-| TOEIC Listening & Reading Test (Score:945) | 2024/04 |
-| 実用英語技能検定 準1級 | 2022/03 |
+詳しくは[こちら](https://punyo.github.io)
