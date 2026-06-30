@@ -7,6 +7,8 @@
 
 モバイル開発以外ではC#をこねこねして[From The Depths](https://store.steampowered.com/app/268650/From_the_Depths/)のModdingなど色々しています。
 
+ポートフォリオ（？）は[こちら](https://punyo.github.io)
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
 <details>
   <summary>WakaTime Stats(2025/04/13~)</summary>
@@ -21,7 +23,3 @@
 | 言語/フレームワーク/プラットフォーム | ツール |
 | ------------- | ------------- |
 | ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,java,jetpackcompose,kotlin,ktor&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,azure,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
-
-## 個人サイト
-
-詳しくは[こちら](https://punyo.github.io)
