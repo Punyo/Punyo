@@ -10,16 +10,3 @@
 ポートフォリオ（？）は[こちら](https://punyo.github.io)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punyo&theme=dark&locale=ja)
-<details>
-  <summary>WakaTime Stats(2025/04/13~)</summary>
-  
-  ![Wakatime Stats](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/wakatime?username=Punyo&layout=compact&theme=dark&locale=ja)
-</details>
-
-## 技術スタック（private repo含む）
-
-![Top Langs](https://github-readme-stats-owokza06v-punyos-projects.vercel.app/api/top-langs?username=Punyo&layout=compact&theme=dark&locale=ja&langs_count=10&exclude_repo=patched_pyrroline)
-
-| 言語/フレームワーク/プラットフォーム | ツール |
-| ------------- | ------------- |
-| ![Langs](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,dotnet,java,jetpackcompose,kotlin,ktor&titles=true) | ![Tools](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,azure,github,githubactions,githubpages,googleplayconsole,visualstudio,vscode&titles=true) |
